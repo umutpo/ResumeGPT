@@ -16,6 +16,6 @@ Python 3.6 or higher
             <li>On *nix: <code>source venv/bin/activate</code></li>
         </ul>
     </li>
-    <li>Install the depedencies using <code>pip install -r requirements.txt</code></li>
-    <li>Go to <code>config/keys_config.cg</code> file and replace <code>api_key</code> and <code>organization_id</code> with your own from <a href="https://platform.openai.com/account/api-keys">Open AI Website</a></li>
+    <li>Install the dependencies using <code>pip install -r requirements.txt</code></li>
+    <li>Go to <code>config/keys_config.cg</code> file and replace <code>api_key</code>  with your own from <a href="https://platform.openai.com/account/api-keys">Open AI Website</a></li>
 </ol>
